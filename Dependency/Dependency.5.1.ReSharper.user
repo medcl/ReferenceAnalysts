@@ -1,0 +1,244 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:app.config" caret="144" fromTop="3" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Program.cs" caret="272" fromTop="13" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="3956" fromTop="148" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="21" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="16" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="9" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="24" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="13" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="13" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="14" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="12" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="11" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="7" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="8" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="10" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="16" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="7" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="11" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="4" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="20" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="2276" fromTop="13" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="3043" fromTop="22" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="3035" fromTop="8" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="3047" fromTop="31" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="3047" fromTop="25" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="3628" fromTop="10" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="3806" fromTop="14" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4134" fromTop="22" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="2842" fromTop="8" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="2353" fromTop="6" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="2730" fromTop="11" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="2242" fromTop="25" />
+      <File id="AE6F7FA2-ACC6-42AF-95F1-6014B708E963/f:Form1.cs" caret="4152" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>D:\Program Files (x86)\NUnit 2.5.4\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="this" priority="1" />
+      <Item value="DialogResult`0" priority="0" />
+      <Item value="string" priority="9" />
+      <Item value="folder" priority="1" />
+      <Item value="folderBrowserDialog1" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="Path`0" priority="1" />
+      <Item value="Directory`0" priority="1" />
+      <Item value="directory" priority="1" />
+      <Item value="VARIABLE" priority="4" />
+      <Item value="AssemblyLoadEventArgs`0" priority="0" />
+      <Item value="Validate`0" priority="0" />
+      <Item value="var" priority="6" />
+      <Item value="assembly" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="references" priority="1" />
+      <Item value="linkedList" priority="1" />
+      <Item value="LinkedList&lt;string&gt;" priority="0" />
+      <Item value="new" priority="7" />
+      <Item value="LinkedListNode&lt;string&gt;" priority="0" />
+      <Item value="HashSet" priority="2" />
+      <Item value="HashSet&lt;string&gt;" priority="2" />
+      <Item value="relations" priority="0" />
+      <Item value="file" priority="3" />
+      <Item value="File`0" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="2" />
+      <Item value="BadImageFormatException`0" priority="0" />
+      <Item value="continue" priority="2" />
+      <Item value="if" priority="2" />
+      <Item value="panel1" priority="0" />
+      <Item value="Microsoft" priority="2" />
+      <Item value="Glee" priority="2" />
+      <Item value="Drawing" priority="2" />
+      <Item value="GraphViewerGdi" priority="0" />
+      <Item value="GViewer`0" priority="1" />
+      <Item value="Console`0" priority="0" />
+      <Item value="relation" priority="4" />
+      <Item value="graph" priority="6" />
+      <Item value="strs" priority="4" />
+      <Item value="_viewer" priority="6" />
+      <Item value="comboBox1" priority="5" />
+      <Item value="e" priority="0" />
+      <Item value="Fill" priority="0" />
+      <Item value="richTextBox1" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="GrowOnly" priority="0" />
+      <Item value="Dpi" priority="0" />
+      <Item value="Edge`0" priority="0" />
+      <Item value="Node" priority="0" />
+      <Item value="Curve" priority="0" />
+      <Item value="curve" priority="0" />
+      <Item value="edge" priority="2" />
+      <Item value="Color" priority="0" />
+      <Item value="Color`0" priority="1" />
+      <Item value="dll" priority="0" />
+      <Item value="node" priority="0" />
+      <Item value="FileLoadException`0" priority="0" />
+      <Item value="Exception`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Dependency.Form1">
+      <Item value="folderBrowserDialog1" priority="0" />
+      <Item value="panel1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FolderBrowserDialog">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="SelectedPath" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetDirectories`0" priority="0" />
+      <Item value="GetFiles`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="EndsWith`0" priority="2" />
+      <Item value="ToLower`0" priority="2" />
+      <Item value="StartsWith`0" priority="2" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="Load`0" priority="0" />
+      <Item value="ReflectionOnlyLoadFrom`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="GetReferencedAssemblies`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.LinkedList`1">
+      <Item value="AddLast`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.HashSet`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.AssemblyName">
+      <Item value="Name" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetFileName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Controls" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Glee.Drawing.Graph">
+      <Item value="AddEdge`0" priority="0" />
+      <Item value="FindNode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Glee.GraphViewerGdi.GViewer">
+      <Item value="Graph" priority="2" />
+      <Item value="Dock" priority="0" />
+      <Item value="AutoSize" priority="0" />
+      <Item value="AutoSizeMode" priority="1" />
+      <Item value="DoDragDrop`0" priority="0" />
+      <Item value="AutoScaleMode" priority="1" />
+      <Item value="Height" priority="0" />
+      <Item value="CalculateLayout`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="1" />
+      <Item value="SelectedText" priority="1" />
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RichTextBox">
+      <Item value="AppendText`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripComboBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Glee.Splines.Curve">
+      <Item value="Box" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Glee.GleeGraph">
+      <Item value="AddEdge`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripStatusLabel">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Glee.Drawing.Edge">
+      <Item value="Attr" priority="1" />
+      <Item value="Source" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Glee.Drawing.EdgeAttr">
+      <Item value="Fontcolor" priority="0" />
+      <Item value="EdgeCurve" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="DeepSkyBlue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Glee.Drawing.Color">
+      <Item value="DeepSkyBlue" priority="0" />
+      <Item value="LightGoldenrodYellow" priority="0" />
+      <Item value="Green" priority="0" />
+      <Item value="Blue" priority="0" />
+      <Item value="Red" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Glee.Drawing.Node">
+      <Item value="Attr" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Glee.Drawing.NodeAttr">
+      <Item value="Fillcolor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debugger">
+      <Item value="Break`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

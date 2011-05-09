@@ -1,0 +1,18 @@
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\bin\Debug\Dependency.exe.config
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\bin\Debug\Dependency.exe
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\bin\Debug\Dependency.pdb
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\bin\Debug\Microsoft.GLEE.dll
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\bin\Debug\Microsoft.GLEE.Drawing.dll
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\obj\x86\Debug\Dependency.Form1.resources
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\obj\x86\Debug\Dependency.Properties.Resources.resources
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\obj\x86\Debug\Dependency.exe
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\obj\x86\Debug\Dependency.pdb
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\obj\x86\Debug\Decl\Dependency.exe
+c:\users\medcl\documents\visual studio 2010\Projects\Dependency\Dependency\obj\x86\Debug\Decl\Dependency.pdb
+E:\.NET Related\ReferenceAnalysts\Dependency\Dependency\bin\Debug\Dependency.exe.config
+E:\.NET Related\ReferenceAnalysts\Dependency\Dependency\obj\x86\Debug\Dependency.exe
+E:\.NET Related\ReferenceAnalysts\Dependency\Dependency\obj\x86\Debug\Dependency.pdb
